@@ -3,7 +3,7 @@ emacs-setup
 
 My Emacs setup for C/C++ and GoLang
 
-![Emacs setup](https://github.com/MarinX/emacs-setup/sc.png)
+![Emacs setup](https://raw.githubusercontent.com/MarinX/emacs-setup/master/sc.png)
 
 ### How to install
 1. Open Package Manager with M-x package-list-packages
